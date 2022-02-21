@@ -1,0 +1,23 @@
+{
+  "name": "contoso",
+  "version": "1.0.0",
+  "description": "New repository",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShindeAshwini09/contoso.git"
+  },
+  "author": "Ashwini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShindeAshwini09/contoso/issues"
+  },
+  "homepage": "https://github.com/ShindeAshwini09/contoso#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
